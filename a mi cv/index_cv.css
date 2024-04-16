@@ -1,0 +1,65 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+/* Estilos de la imagen de perfil */
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 1rem;
+}
+
+/* Estilos del encabezado y pie de página */
+header, footer {
+    background: url(/img/arido.jpg);
+    color: #fcfcfc;
+    text-align: center;
+    padding: 20px 0;
+}
+
+/* Estilos de los títulos */
+h1, h2, h3 {
+    color: #333;
+    text-align: center;
+}
+
+/* Estilos de las secciones */
+section {
+    padding: 20px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+/* Estilos del perfil */
+#profile {
+    background-color: #ffffff;
+    
+    padding: 20px;
+}
+
+/* Estilos de habilidades y experiencia */
+#skills, #experience {
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+/* Estilos de cada trabajo */
+.job {
+    margin-bottom: 20px;
+}
+
+/* Estilos de las listas */
+ul {
+    padding-left: 20px;
+    text-align: center;
+}
+
+/* Estilos del pie de página */
+footer {
+    font-style: italic;
+}
